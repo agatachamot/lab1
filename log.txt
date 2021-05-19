@@ -1,0 +1,11 @@
+commit 1a70f75156f0e951546dec46154a991616b9c3c9
+Author: agata.chamot@gmail.com <agata.chamot@gmail.com>
+Date:   Thu May 20 00:53:14 2021 +0200
+
+    ignorowanie .docx
+
+commit cfbcecf002b77033ccd990769995b9692e75f99b
+Author: agata.chamot@gmail.com <agata.chamot@gmail.com>
+Date:   Thu May 20 00:43:51 2021 +0200
+
+    ciuchcia
